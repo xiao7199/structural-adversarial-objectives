@@ -1,11 +1,12 @@
-####  Structural Adversarial Objectives
+
+## Structural Adversarial Objectives
 
 
-This repository contains the code for[Structural Adversarial Objectives For Self-Supervised Representation Learning](https://arxiv.org/abs/2310.00357))
+This repository contains the code for [Structural Adversarial Objectives For Self-Supervised Representation Learning](https://arxiv.org/abs/2310.00357).
 
 
 ## Running Code
-This repository requires `pytorch > 2.0.0`.
+This repository requires `pytorch >= 2.0.0`.
 
 We provide a sample running script for CIFAR-10/100 experiments in `srun.sh`. You can use `bash srun.sh` to launch an experiment with the default hyper-parameters for the CIFAR-10 dataset.
 
